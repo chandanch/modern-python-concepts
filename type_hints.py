@@ -9,6 +9,7 @@ Specifying the return type for function:
 <Function_Name>(<param1>: <TYPE>, <param2>: <TYPE>) -> <RETURN TYPE>
 ex:
 get_player_details(name: str, score: int) -> str
+PEP 8 Guidelines:
 Use normal rules for colons, that is, no space before and one space after a colon
 """
 
